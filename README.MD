@@ -5,6 +5,10 @@ Application to visually demonstrate algorithms:
 - Graph
   - Entity Relationship - Layered graph drawing (Sugiyama-style graph drawing)
 
+## Entity Relationship
+
+![screenshot-entity-relationship.png](doc/screenshot-entity-relationship.png "Screenshot of a diagram of Entity Relationship")
+
 ## Run it
 
 Run the desktop application: `./gradlew :composeApp:run`  
